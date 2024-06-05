@@ -15,7 +15,7 @@
         - tints:#ff6666
         - shades:
         - Accents:
-        - Greys:#555 #333
+        - Greys:#555 #000
 
 
 ----03 SHADOWS
@@ -105,7 +105,7 @@ body {
 .heading-secondary,
 .heading-tertiary {
   font-weight: 700;
-  color: #333;
+  color: #000;
   letter-spacing: -0.5px;
 }
 
@@ -167,7 +167,7 @@ body {
 .main-nav-link:visited {
   display: inline-block;
   text-decoration: none;
-  color: #333;
+  color: #000;
   font-weight: 500;
   font-size: 1.8rem;
   transition: all 0.3s;
@@ -192,7 +192,7 @@ body {
   padding: 1.2rem 2.4rem;
   border-radius: 9px;
   color: #fff;
-  background-color: #333;
+  background-color: #000;
 }
 
 .main-nav-link.nav-cta:hover,
@@ -224,7 +224,7 @@ body {
   font-size: 5.2rem;
   font-weight: 700;
   line-height: 1.05;
-  color: #333;
+  color: #000;
   letter-spacing: -0.5px;
   /* margin-top: 6.4rem; */
   margin-bottom: 3.2rem;
@@ -275,7 +275,7 @@ body {
 
 .btn--full:hover,
 .btn--full:active {
-  background-color: #333333;
+  background-color: #000333;
 }
 
 .btn--outline:link,
@@ -298,7 +298,7 @@ body {
 }
 .watch-video-btn {
   text-decoration: none;
-  color: #333;
+  color: #000;
   font-size: 2rem;
   font-weight: 600;
   padding: 1.6rem 3.2rem;
@@ -327,7 +327,7 @@ body {
 .icon-mobile-nav {
   height: 4.8rem;
   width: 4.8rem;
-  color: #333;
+  color: #000;
 }
 
 .icon-mobile-nav[name="close-outline"] {
@@ -359,7 +359,7 @@ body {
 .feature-title,
 .advantage-title {
   font-size: 2.4rem;
-  color: #333;
+  color: #000;
   font-weight: 700;
 }
 
@@ -389,7 +389,7 @@ body {
 }
 .advantage-title {
   font-size: 2.4rem;
-  color: #333;
+  color: #000;
   font-weight: 700;
 }
 
@@ -490,7 +490,7 @@ body {
 }
 .testimonial-name {
   font-size: 1.6rem;
-  color: #333;
+  color: #000;
   font-weight: 500;
 }
 
@@ -581,7 +581,7 @@ body {
   text-decoration: none;
   font-size: 2rem;
   font-weight: 600;
-  color: #333;
+  color: #000;
 }
 .download-icon {
   color: #000;
@@ -645,7 +645,7 @@ body {
 .footer-link:visited {
   text-decoration: none;
   font-size: 1.6rem;
-  color: #333;
+  color: #000;
   transition: all 0.3s;
 }
 
@@ -678,7 +678,7 @@ body {
   display: flex;
 
   /* border-radius: 9px; */
-  border: 1px #333 solid;
+  border: 1px #000 solid;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
